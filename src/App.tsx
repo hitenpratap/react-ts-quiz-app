@@ -66,7 +66,7 @@ const App = () => {
 			<GlobalStyles />
 			<Wrapper>
 				<h1>React Quiz</h1>
-				{gameOver || userAnswers.length == TOTAL_QUESTIONS ? (
+				{gameOver || userAnswers.length === TOTAL_QUESTIONS ? (
 					<button className="start" onClick={startQuiz}>
 						Start
 					</button>
