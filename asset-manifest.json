@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/react-ts-quiz-app/static/js/main.277b3aed.js",
+    "static/media/bg-image.jpg": "/react-ts-quiz-app/static/media/bg-image.b37f4b2917fd024dceb9.jpg",
+    "index.html": "/react-ts-quiz-app/index.html",
+    "main.277b3aed.js.map": "/react-ts-quiz-app/static/js/main.277b3aed.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.277b3aed.js"
+  ]
+}
